@@ -1773,6 +1773,7 @@
   
     .channel-list__container-responsive {
       display: flex;
+      height: 100%;
     }
   
     .channel-list__list__wrapper {
