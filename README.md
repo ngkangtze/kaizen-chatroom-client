@@ -1,4 +1,5 @@
 # [Kaizen Web App Prototype - Chat Client](https://kaizen-chatroom.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb38b601-7a7b-4b06-bf89-a80c08c4c739/deploy-status)](https://app.netlify.com/sites/kaizen-chatroom/deploys)
 
 ## Table of contents
 
