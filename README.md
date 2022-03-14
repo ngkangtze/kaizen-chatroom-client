@@ -27,7 +27,7 @@ DOT is an IPC charity that aims to help women aged 20 to 60 from low-income fami
 
 ## Presentation Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yC4qArCGJNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Presentation Video](https://img.youtube.com/vi/yC4qArCGJNs/0.jpg)](https://www.youtube.com/watch?v=yC4qArCGJNs)
 
 ## Quick Start
 
