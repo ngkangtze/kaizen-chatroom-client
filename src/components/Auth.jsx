@@ -29,8 +29,8 @@ const Auth = () => {
         e.preventDefault();
         const { username, password } = form;
 
-        const URL = 'http://localhost:3000/auth';
-        // const URL = 'https://kaizen-chatroom.herokuapp.com/auth';
+        // const URL = 'http://localhost:3000/auth';
+        const URL = 'https://kaizen-chatroom.herokuapp.com/auth';
 
         const { data: { token, userId, hashedPassword, displayName, image } } = await axios.post(`${URL}/${isSignup ? 'signup' : 'login'}`, {
             username, password, displayName: form.displayName,
