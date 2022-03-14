@@ -4,7 +4,7 @@ import { useChatContext } from "stream-chat-react";
 import Cookies from 'universal-cookie';
 import axios from 'axios';
 
-import signinImage from '../assets/signup.jpg';
+import signinImage from '../assets/kaizen-background.png';
 
 const cookies = new Cookies();
 
@@ -29,8 +29,8 @@ const Auth = () => {
         e.preventDefault();
         const { username, password } = form;
 
-        // const URL = 'http://localhost:3000/auth';
-        const URL = 'https://kaizen-chatroom.herokuapp.com/auth';
+        const URL = 'http://localhost:3000/auth';
+        // const URL = 'https://kaizen-chatroom.herokuapp.com/auth';
 
         const { data: { token, userId, hashedPassword, displayName, image } } = await axios.post(`${URL}/${isSignup ? 'signup' : 'login'}`, {
             username, password, displayName: form.displayName,
