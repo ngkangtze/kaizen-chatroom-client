@@ -1,5 +1,6 @@
 # [Kaizen Web App Prototype - Chat Client](https://kaizen-chatroom.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bb38b601-7a7b-4b06-bf89-a80c08c4c739/deploy-status)](https://app.netlify.com/sites/kaizen-chatroom/deploys)
+![Heroku](https://heroku-badge.herokuapp.com/?app=kaizen-chatroom)
 
 ## Table of contents
 
@@ -70,7 +71,7 @@ Mentors will be specified on the application with a ✔️ emoji and a verified 
 
 ## Credits and API
 
-- [Build and Deploy a Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications - Javascript Mastery](https://www.youtube.com/watch?v=MJzbJQLGehs&t=30s&ab_channel=JavaScriptMastery)
+- [Build and Deploy a Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications - JavasScript Mastery](https://www.youtube.com/watch?v=MJzbJQLGehs&t=30s&ab_channel=JavaScriptMastery)
 - [Stream.IO](https://getstream.io/)
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com)
